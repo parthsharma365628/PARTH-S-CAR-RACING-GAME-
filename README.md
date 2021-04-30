@@ -1,2 +1,15 @@
-# synchronousBallMovement
-Ball moving synchronously
+developed by Parth Sharma 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subsceibe to my channel Cool Sharma
