@@ -1,2 +1,2 @@
-# PARTH-S-CAR-RACING-GAME-
-HI
+# synchronousBallMovement
+Ball moving synchronously
